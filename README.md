@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/mdnoushadsiddiq"><img src="https://api.daily.dev/devcards/a273b5d0293346279b56b2d9d343813e.png?r=o4a" width="400" alt="Mohammad Noushad Siddiqi's Dev Card"/></a>
 
 <!--
 **Noushad-web/noushad-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
