@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Fronts.ai](https://fronts.ai)
 
-- 🌱 I’m currently learning **c# and Deep dive in Node.js**
+- 🌱 I’m currently learning Deep dive in Node.js**
 
 - 👯 I’m looking to collaborate on **Javascript and Node.js**
 
