@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning Deep dive in Node.js**
 
-- 👯 I’m looking to collaborate on **Javascript and Node.js**
+- 👯 I’m looking to collaborate on **Javascript and Node.js and Python**
 
-- 🤝 I’m looking for help with **Rust projects**
+- 🤝 I’m looking for help with **Python projects**
 
 - 👨‍💻 All of my projects are available at [https://mohammad-noushad-portfolio.web.app/](https://mohammad-noushad-portfolio.web.app/)
 
-- 💬 Ask me about **Javascript, React, Typescript, MongoDB, Node.js, Next.js, Redux, Redis, Github, Jquery, CSS, Sass, Bootstrap, Material UI, Tailwind**
+- 💬 Ask me about **Javascript, Python, React, Typescript, MongoDB, Node.js, Next.js, Redux, Redis, Github, Jquery, CSS, Sass, Bootstrap, Material UI, Tailwind**
 
 - 📫 How to reach me **mdnoushadsiddiqi@gmail.com**
 
